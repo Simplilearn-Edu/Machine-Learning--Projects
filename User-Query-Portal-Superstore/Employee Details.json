@@ -1,0 +1,58 @@
+[
+    {
+        "Name ":"Mr. Dinesh Sahu",
+        "Department ":"Sales Department",
+        "Support ":"Shipping and Delivery",
+        "Phone Number ":9685743214,
+        "Email Id ": "dineshsahu3456@gmail.com"
+    },
+    {
+        "Name ":"Mrs. Nandini Anand",
+        "Department ":"Sales Department",
+        "Support ":"General Assistance",
+        "Phone Number ":9685743232,
+        "Email Id ": "anandnandini3456@gmail.com" 
+    },
+    {
+        "Name ":"Mr. Shaurya Shrivastava",
+        "Department ":"Technical Department",
+        "Support ":"Service Inquiry",
+        "Phone Number ":9685743233,
+        "Email Id ": "shauryas2002@gmail.com"
+    },
+    {
+        "Name ":"Mr. Sandeep Singh",
+        "Department ":"Technical Department",
+        "Support ":"Technical Support",
+        "Phone Number ":9685743210,
+        "Email Id ": "sandeepsingh1234@gmail.com"
+    },
+    {
+        "Name ":"Mr. Raghunandan Verma",
+        "Department ":"Customer Service",
+        "Support ":"Information Request",
+        "Phone Number ":9685743250,
+        "Email Id ": "raghunandanv3456@gmail.com"
+    },
+    {
+        "Name ":"Mr. Jayawardhan Rajagopal",
+        "Department ":"Customer Service",
+        "Support ":"Information Request",
+        "Phone Number ":9685743299,
+        "Email Id ": "jayawardhanrajgopal3456@gmail.com"
+    },
+    {
+        "Name ":"Mr. Sriman Narayana",
+        "Department ":"Sales Department",
+        "Support ":"Product Inquiry",
+        "Phone Number ":9685743299,
+        "Email Id ": "srimannarayana@gmail.com" 
+    },
+    {
+        "Name ":"Mr. Jayaraj",
+        "Department ":"Technical Department",
+        "Support ":"Account Assistance",
+        "Phone Number ":9685743298,
+        "Email Id ": "jayaraj3490@gmail.com" 
+    }
+]
